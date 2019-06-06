@@ -16,10 +16,8 @@ img {
 }
 
 nav {
-  text-align:center;
-  
-}
-nav a {
-  display:inline-block;
-  text-align:left;
+  display: inline;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
 }
