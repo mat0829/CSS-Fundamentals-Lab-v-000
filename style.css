@@ -38,6 +38,6 @@ figcaption {
 }
 
 #details {
-  display:inline-block;
+  display:block;
   text-align:left;
 }
