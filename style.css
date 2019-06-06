@@ -15,5 +15,11 @@ img {
   margin-right: auto;
 }
 
-nav {text-align:center;}
-nav a {display:inline-block;text-align:left;}
+nav {
+  text-align:center;
+  
+}
+nav a {
+  display:inline-block;
+  text-align:left;
+}
