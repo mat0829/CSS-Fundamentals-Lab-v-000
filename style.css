@@ -15,8 +15,8 @@ img {
   margin-right: auto;
 }
 
-nav {
-  display: table-cell;
+nav a {
+  display: block;
   text-align: center;
   padding-left: 10px;
   padding-right: 10px;
