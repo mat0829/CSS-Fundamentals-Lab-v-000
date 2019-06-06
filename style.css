@@ -15,9 +15,5 @@ img {
   margin-right: auto;
 }
 
-nav {
-  display: inline;
-  text-align: center;
-  padding-left: 10px;
-  padding-right: 10px;
-}
+nav {text-align:center;}
+nav a {display:inline-block;text-align:left;}
