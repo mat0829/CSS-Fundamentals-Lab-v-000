@@ -16,7 +16,7 @@ img {
 }
 
 a {
-  display: flex; 
+  display: inline; 
   justify-content: center;
   padding-left: 10px;
   padding-right: 10px;
