@@ -41,7 +41,7 @@ div {
   float: left
 }
 
-#details h3 {
+h3 {
   display:block;
   text-align:left;
 }
