@@ -37,7 +37,7 @@ figcaption {
   width: 800px;
 }
 
-#details h3 {
+#details div h3 {
   display:block;
   text-align:center;
 }
